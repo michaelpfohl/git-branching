@@ -2,4 +2,4 @@
 
 _Practicing branching with git._
 
-This update is on the test branch.
+This update is on the master branch.
